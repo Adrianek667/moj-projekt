@@ -1,4 +1,3 @@
-Dodaj nowy plik contact.html:
 <!DOCTYPE html>
 <html>
 <head>
